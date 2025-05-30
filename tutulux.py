@@ -98,7 +98,7 @@ translations = {
             "- Çoklu dil desteği (Türkçe ve İngilizce)\n\n"
             "Geliştirici: Emre Bilgin\n"
             "İletişim: emre.bilgin64@gmail.com\n"
-            "GitHub: https://github.com/Uzaysalyakamoz"
+            "GitHub: https://github.com/Uzaysalyakamoz/Tutulux"
             "Bu yazılım, astronomi topluluğuna katkı sağlamak amacıyla açık kaynak olarak geliştirilmiştir."
         ),
         'success': 'Başarılı',
@@ -198,7 +198,7 @@ translations = {
             "- Multilingual support (Turkish and English)\n\n"
             "Developer: Emre Bilgin\n"
             "Contact: emre.bilgin64@gmail.com\n"
-            "GitHub: https://github.com/Uzaysalyakamoz\n\n"
+            "GitHub: https://github.com/Uzaysalyakamoz/Tutulux\n\n"
             "This software is developed as an open-source tool to contribute to the astronomy community."
         ),
         'success': 'Success',
